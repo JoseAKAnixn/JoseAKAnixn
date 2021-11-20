@@ -1,4 +1,4 @@
-- 👋 Hallöchen ich bin der @José
+- 👋 Hallöchen ich bin der @Jose
 - 👀 Ich interessiere mich für den aufbau eines Discordservers 
 - 🌱 Ich lerne gerad wie man die vielen Möglichkeiten nutzen kann
 - 💞️ Ich möcht hier mir viel ausprobieren und lernen
